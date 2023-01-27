@@ -199,7 +199,7 @@ To compare two values, you use a comparison operator. The following table shows 
 
 </details>
 
-### #if-else-conditons
+### if-else-conditons
 
 <details>
 <summary>
