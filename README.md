@@ -203,7 +203,7 @@ To compare two values, you use a comparison operator. The following table shows 
 
 <details>
 <summary>
-  <h3>What is ? (Click Me)</h3>
+  <h3>if-else-conditons? (Click Me)</h3>
 </summary>
 <br >
 
